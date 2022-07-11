@@ -71,6 +71,9 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+#more {display: none;}
+#more2 {display: none;}
+#more3 {display: none;}
 
 /* Basic */
 
@@ -1811,6 +1814,8 @@ input, select, textarea {
 		}
 
 	}
+
+	
 
 /* Form */
 
